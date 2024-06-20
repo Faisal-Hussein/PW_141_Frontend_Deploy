@@ -1,0 +1,9 @@
+.landing-page{
+    background: lightblue;
+    height: 100%;
+}
+
+.content{
+    background: lightblue;
+    display:flex;
+}
